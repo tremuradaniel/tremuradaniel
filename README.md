@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tremuradaniel
+- 👀 I’m interested in web development and machine learning
+- 🌱 I’m currently learning Symfony
+- 💞️ I’m looking to collaborate on Laravel, Vue, React projects, but on python related ones as well :)
+- 📫 How to reach me - drop a line @ tremuradaniel@gmail.com
