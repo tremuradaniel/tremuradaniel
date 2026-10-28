@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tremuradaniel
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Docker/Kubernetes
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Python, Spring, .NET, Vue and Symfony projects
 - 📫 How to reach me - drop a line @ tremuradaniel@gmail.com
